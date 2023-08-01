@@ -45,7 +45,6 @@ Examples:
 <img src="out1.jpg">
 
 <br>
-
 <img src="test2.jpg">
 <img src="out2.jpg">
 
